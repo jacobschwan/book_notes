@@ -49,6 +49,23 @@ Emphasize/Exclude Method
 
 Cultivate the ability to concentrate. Carve out chunks of time when you can focus on learning, and make it easy to just do it.
 
+### Focus Problems
+
+1. Failing to start focusing
+    - Recognize when you're procrastinating
+    - Start w/ just making yourself work for 5 mins
+    - Build from there w/ Pomodoro Technique
+2. Failing to sustain focus
+    - Try to find *flow*, but don't stress if it doesn't come naturally
+    - Break-up studying into sessions of about 55mins to an hour. Rotate topics.
+    - **Distraction Sources**
+      1. Environment - be aware of when something like music is a distrction and not an avoid
+      2. Your task - if possible choose learning methods that keep you focused (eg video vs reading). Find way to help you focus though difficult tasks (eg taking note while reading)
+      3. Your mind - negative emotions, feeling, worries. If they arise mid-focus: let it arise, note it, and release it.
+3. Failing to create the right kind of focus
+    - High mental arousal is good for simple tasks or intense concentration towards a small target
+    - Complex tasks benefit from more relaxed focus
+
 ## Chapter 6: Directness: Go Straight Ahead
 
 Learn by doing the thing you want to become good at. Don't trade it off for other task, just because those are more convenient or comfortable.
