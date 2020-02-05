@@ -70,6 +70,20 @@ Cultivate the ability to concentrate. Carve out chunks of time when you can focu
 
 Learn by doing the thing you want to become good at. Don't trade it off for other task, just because those are more convenient or comfortable.
 
+Traditional education methods tend to fail at transferring knowledge to practical application. Learning by doing helps increase transfer.
+
+**Tactics**
+    1. Project-Based Learning
+        - Learning around a project ensure that you at least know how to produce that one thing.
+    2. Immersive Learning
+        - Immersion increases your amount of practice and exposes you to a fuller range of situations
+    3. The Flight Simulator Method
+        - If you can't recreate the full environment (immersion), focus on recreating the cognitive features
+        - Situations where you need to make decisions about what to do and cue knowledge you've stored in your head.
+    4. The Overkill Approach
+        - Increase the challenge level to enhance directness
+        - Put yourself into an environment where the demands are extremely high and you're unlikely to miss any important lessons or feedback.
+
 ## Chapter 7: Drill: Attack Your Weakest Point
 
 Be ruthless in improving your weakest points. Break down complex skills into small parts; then master those parts and build them back together.
